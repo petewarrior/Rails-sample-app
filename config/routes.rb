@@ -4,6 +4,8 @@ RailsSampleApp::Application.routes.draw do
   get "pages/contact"
   
   get "pages/about"
+  
+  get "pages/goat"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
